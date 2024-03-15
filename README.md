@@ -1,1 +1,4 @@
 # PBOSESI5
+1. Objek pertama (RightTriangle ABC) merupakan objek dari kelas RightTriangle, yang merupakan segitiga siku-siku. Konstruktor menerima dua sisi yang merupakan panjang dari dua sisi pendek segitiga tersebut.
+2. Objek kedua (Triangle BCD) juga merupakan objek dari kelas RightTriangle, namun dideklarasikan sebagai Triangle. Ini mungkin merupakan kesalahan penulisan karena secara semantik objek ini juga seharusnya merupakan segitiga siku-siku seperti objek pertama.
+3. Objek ketiga (Triangle CDE) merupakan objek dari kelas Triangle, yang dapat menjadi segitiga apapun. Konstruktor menerima tiga sisi segitiga tersebut. Dalam kasus ini, sisi-sisinya memiliki panjang 3.0, 4.0, dan 5.0, yang menunjukkan bahwa segitiga ini adalah segitiga siku-siku (sesuai dengan sifat segitiga Pythagoras), tetapi itu tidak secara eksplisit disebutkan dalam nama kelasnya
